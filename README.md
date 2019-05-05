@@ -23,4 +23,4 @@
 
 截图：  
 
-![Image](https://github.com/fjnu-zexin/test1/blob/master/img/t4p1.PNG)
+![Image](https://github.com/fjnu-zexin/test1/blob/master/img/t5p1.PNG)
