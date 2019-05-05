@@ -1,6 +1,7 @@
 # 实验报告5
 
 关键代码：
+···
         protected void onCreate(Bundle savedInstanceState) {
                 super.onCreate(savedInstanceState);
                 setContentView(R.layout.layout);
